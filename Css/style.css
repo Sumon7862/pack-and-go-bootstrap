@@ -1,4 +1,19 @@
-
+body{
+  background-color: aquamarine;
+  font-family: "Poppins", sans-serif;
+}
+.nav-item{
+  font-size: 16px;
+  color: #616161;
+}
+.button{
+  background-color: #007F5F;
+  color: white;
+  border-radius: 17px;
+  padding: 16px 34px;
+  cursor: pointer;
+  border: none;
+}
  .hero-title {
             font-weight: 700;
         }
