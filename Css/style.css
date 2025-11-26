@@ -1,5 +1,10 @@
 body{
-  font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif !important
+}
+.btn{
+  background-color: rgb(32, 153, 32);
+  color: white;
+
 }
  .hero-title {
             font-weight: 700;
