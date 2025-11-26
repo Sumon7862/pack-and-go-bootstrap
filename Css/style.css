@@ -1,10 +1,38 @@
 body{
   font-family: "Poppins", sans-serif !important
 }
+.nav-item{
+  color: #616161;
+}
+.hero{
+  background-color: #F8F8F8;
+  padding: 135px 0px;
+}
+.heroHead{
+  color: #1E1E1E;
+  font-weight: 600;
+  width: 573px;
+  font-size: 65px;
+  line-height: 80px;
+}
+.heroPara{
+  color: #616161;
+  width: 597px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+.heroContent{
+  position: relative;
+  top: 30px;
+}
+.heroImg{
+  position: absolute;
+  z-index: 1;
+}
 .btn{
-  background-color: rgb(32, 153, 32);
+  background-color: #007F5F;
   color: white;
-
+  padding: 16px 35px;
 }
  .hero-title {
             font-weight: 700;
